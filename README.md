@@ -1,16 +1,17 @@
-### Hi there 👋
+### Seja bem vindo ao meu perfil ❤️❤️
 
-<!--
-**cayozinn1608/cayozinn1608** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+_Prazer me chamo Cayo Gabryel_
 
-Here are some ideas to get you started:
+- Sou estudante do colégio Estadual Domingos Francisco Zardo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Estou estudando os cursos da plataforma Alura.
+
+- Estou me desenvolvendo na linguagem Javascript.
+
+- Utilizo esta plataforma para armazenamento e para compartilhar meus projetos em desenvolvimento.
+
+### Você pode entrar em contato comigo pelo 📫 
+
+cayo.hoffstaetter@escola.pr.gov.br
+
+@cayozin_0307
